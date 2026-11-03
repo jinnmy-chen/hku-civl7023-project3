@@ -1,0 +1,156 @@
+{
+  "static_checks": "passed",
+  "URDF_links": 1,
+  "URDF_collisions": 34,
+  "mesh_paths_exist": true,
+  "all_collision_meshes_match_B_hashes": true,
+  "visual_mesh_solid": true,
+  "visual_mesh_envelope_m": [
+    0.05000000074505806,
+    0.029999999329447746,
+    0.02500000037252903
+  ],
+  "nominal_goal_records_checked": 6,
+  "source": "B V2 baseline; A CAD outputs",
+  "URDF_runtime_load": "not executed; PyBullet build unavailable locally (MSVC required)",
+  "robot_pick_place": "not executed in this supplement",
+  "team_interface_confirmation": "not received",
+  "collision_files": [
+    {
+      "mesh": "convex/socket_mouth_0_0.stl",
+      "sha256": "0b733dd418bbbf3ce25fab70db0d63fa1b5129b44044f4d92171f9e4407fc644"
+    },
+    {
+      "mesh": "convex/socket_wall_0_0.stl",
+      "sha256": "c388f6efe2021db293616d047017be3887252e72563b0edb489fecb01ce2126c"
+    },
+    {
+      "mesh": "convex/socket_mouth_0_1.stl",
+      "sha256": "befddd528fff41ade5e065655b13f2233486a269c159757008d865ae9c480e34"
+    },
+    {
+      "mesh": "convex/socket_wall_0_1.stl",
+      "sha256": "c2ac5c3d783dd6637c2f50bb329e4cecb22e70c5bcae54d46b69758b4d66f755"
+    },
+    {
+      "mesh": "convex/socket_mouth_0_2.stl",
+      "sha256": "ad4c69c0e3491a9d764d9447597eb320190575dfbb293f464fa982711c91cdc3"
+    },
+    {
+      "mesh": "convex/socket_wall_0_2.stl",
+      "sha256": "9d25b5e940fb7dde91287dbc62b8cacf4fbd686c4f75c9c84c1d7ebe4652add0"
+    },
+    {
+      "mesh": "convex/socket_mouth_1_0.stl",
+      "sha256": "2861b3ba8d4f7d3f9346080c870b21240355cee51e54a86805c65cb794aeac3b"
+    },
+    {
+      "mesh": "convex/socket_wall_1_0.stl",
+      "sha256": "0da56fed6b990536db5e3e56ff681126391cdd12df5a3a9a8cc3f0142df3a345"
+    },
+    {
+      "mesh": "convex/socket_mouth_1_2.stl",
+      "sha256": "c739998775645864f2badcfd1b2b1ae22fa49633aaece36f6a15f71dba5f1773"
+    },
+    {
+      "mesh": "convex/socket_wall_1_2.stl",
+      "sha256": "d834fb3e176a283323780775364255b4e3a1f083b42eee340f0953dae326a076"
+    },
+    {
+      "mesh": "convex/socket_mouth_2_0.stl",
+      "sha256": "d7c0a9d09ae0db9e1f19e51496e3f2d531bfbae7b0e5475c021440490b4b62df"
+    },
+    {
+      "mesh": "convex/socket_wall_2_0.stl",
+      "sha256": "571d485fbf6ec487c66b461ff7bb67ad29cf82d347f5975bcf6caa5ff4970876"
+    },
+    {
+      "mesh": "convex/socket_mouth_2_1.stl",
+      "sha256": "5d9257c06f9e87659e5bc1484ae59cd72e5af8eb6c0821dff88d5873799128ea"
+    },
+    {
+      "mesh": "convex/socket_wall_2_1.stl",
+      "sha256": "d15f7f8b783f1c554bb2a84df6c45ee4ca6513a7d58aa5d2c482269ce2d3618c"
+    },
+    {
+      "mesh": "convex/socket_mouth_2_2.stl",
+      "sha256": "230bebdb940db3e8678025d18bd6026af87d049e5f407040da1db5f3b1e38da1"
+    },
+    {
+      "mesh": "convex/socket_wall_2_2.stl",
+      "sha256": "a2d1fcdd5fbbaa5accf44318bb5ef64b5b68662fd48e82b834db97db7f7026eb"
+    },
+    {
+      "mesh": "convex/socket_mouth_3_0.stl",
+      "sha256": "c6fc9ecd19145b6fe9b55fb5f6b9f516fe4163d957afeef8669f7cffbfce292f"
+    },
+    {
+      "mesh": "convex/socket_wall_3_0.stl",
+      "sha256": "faf74fe853b1d2bd14519cf569ce6a9bdda1e915969608a72b11c34165269f74"
+    },
+    {
+      "mesh": "convex/socket_mouth_3_2.stl",
+      "sha256": "c11bf828c709ce1dae971e778507399eeaa650ab8766f5ef0d9b0855b24af083"
+    },
+    {
+      "mesh": "convex/socket_wall_3_2.stl",
+      "sha256": "3cdde1831c6016373718157f8bef70ef3a98d0a08a55fc2fed12ebb3c5c9b14b"
+    },
+    {
+      "mesh": "convex/socket_mouth_4_0.stl",
+      "sha256": "28be54b262171ee3d031a90c098fc42d1c47b18befabecd32bbe5c6e53027eda"
+    },
+    {
+      "mesh": "convex/socket_wall_4_0.stl",
+      "sha256": "f10aceb297e72c82aa9d1485e45288c86bea935c7ffa2fff2595185c5be57550"
+    },
+    {
+      "mesh": "convex/socket_mouth_4_1.stl",
+      "sha256": "a7c896bc18a7da68b026f8b5f7b39631782bf878983c7b6033713931bc1acd35"
+    },
+    {
+      "mesh": "convex/socket_wall_4_1.stl",
+      "sha256": "cff620dc87f4e613a9b5c87b3b3eece5266484e6f72a2138c0a7a798ad017b55"
+    },
+    {
+      "mesh": "convex/socket_mouth_4_2.stl",
+      "sha256": "746b141c960c9cf00bb6c38b99a275b8837019d9bbf773b506681af91c9df95f"
+    },
+    {
+      "mesh": "convex/socket_wall_4_2.stl",
+      "sha256": "4858c7f452146e07c889480e7de8cd1a7177ffcc1fa59a6456275e5df6adbc7f"
+    },
+    {
+      "mesh": "convex/lower_body.stl",
+      "sha256": "f5c25ea97000389a830bceb29ac98cd73c6fb577db9ea65e8c71ad0b59163eab"
+    },
+    {
+      "mesh": "convex/grip_core.stl",
+      "sha256": "56acc5c4a5b06217dfeb13d5605c23f27f503107067bef9952f44099d9950b74"
+    },
+    {
+      "mesh": "convex/end_land_0_0.stl",
+      "sha256": "e96dc2b0188ba0bee041ba099c10b89609dddc7e6178e43a782fe42257869266"
+    },
+    {
+      "mesh": "convex/end_land_0_1.stl",
+      "sha256": "09ab2d52f8a74ac1b1d637b5ec404de78b66eaa2686346e4f3d143d0ab28cc51"
+    },
+    {
+      "mesh": "convex/end_land_1_0.stl",
+      "sha256": "aac8561839cfc78a28ac1182e74c838a97e7752354e19aa9d4f8a33276b03c5e"
+    },
+    {
+      "mesh": "convex/end_land_1_1.stl",
+      "sha256": "e4535981df03b13a9358b931512b4b39ee3af808e7e08b91aeace09c834e8802"
+    },
+    {
+      "mesh": "convex/guide_boss_0.stl",
+      "sha256": "df7d162b20132dcbf79f0a91abaa7c00b7c99bdb0b2481d0be633dfdab7c8eb4"
+    },
+    {
+      "mesh": "convex/guide_boss_1.stl",
+      "sha256": "065ea9ee98362c575967993aaab2f84da752a4a3024d0929d2f8f665aa2bd5de"
+    }
+  ]
+}

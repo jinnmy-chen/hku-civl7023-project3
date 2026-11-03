@@ -1,0 +1,300 @@
+{
+  "units": "m, xyzw",
+  "origin": "component bottom center",
+  "records": [
+    {
+      "assembly_order": 1,
+      "part_id": "L1_1",
+      "source_id": "S1",
+      "layer": 1,
+      "source_bottom_world_m": [
+        0.21,
+        -0.07,
+        0
+      ],
+      "target_bottom_world_m": [
+        0.24,
+        0.08,
+        0
+      ],
+      "component_quaternion_xyzw": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "pick_tcp_world_m": [
+        0.21,
+        -0.07,
+        0.014
+      ],
+      "place_tcp_world_m": [
+        0.24,
+        0.08,
+        0.014
+      ],
+      "source_above_tcp_world_m": [
+        0.21,
+        -0.07,
+        0.082
+      ],
+      "target_above_tcp_world_m": [
+        0.24,
+        0.08,
+        0.082
+      ],
+      "tool_quaternion_xyzw": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "nominal B baseline; not a new robot execution result"
+    },
+    {
+      "assembly_order": 2,
+      "part_id": "L1_2",
+      "source_id": "S2",
+      "layer": 1,
+      "source_bottom_world_m": [
+        0.27,
+        -0.07,
+        0
+      ],
+      "target_bottom_world_m": [
+        0.29,
+        0.08,
+        0
+      ],
+      "component_quaternion_xyzw": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "pick_tcp_world_m": [
+        0.27,
+        -0.07,
+        0.014
+      ],
+      "place_tcp_world_m": [
+        0.29,
+        0.08,
+        0.014
+      ],
+      "source_above_tcp_world_m": [
+        0.27,
+        -0.07,
+        0.082
+      ],
+      "target_above_tcp_world_m": [
+        0.29,
+        0.08,
+        0.082
+      ],
+      "tool_quaternion_xyzw": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "nominal B baseline; not a new robot execution result"
+    },
+    {
+      "assembly_order": 3,
+      "part_id": "L1_3",
+      "source_id": "S3",
+      "layer": 1,
+      "source_bottom_world_m": [
+        0.33,
+        -0.07,
+        0
+      ],
+      "target_bottom_world_m": [
+        0.34,
+        0.08,
+        0
+      ],
+      "component_quaternion_xyzw": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "pick_tcp_world_m": [
+        0.33,
+        -0.07,
+        0.014
+      ],
+      "place_tcp_world_m": [
+        0.34,
+        0.08,
+        0.014
+      ],
+      "source_above_tcp_world_m": [
+        0.33,
+        -0.07,
+        0.082
+      ],
+      "target_above_tcp_world_m": [
+        0.34,
+        0.08,
+        0.082
+      ],
+      "tool_quaternion_xyzw": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "nominal B baseline; not a new robot execution result"
+    },
+    {
+      "assembly_order": 4,
+      "part_id": "L2_1",
+      "source_id": "S4",
+      "layer": 2,
+      "source_bottom_world_m": [
+        0.21,
+        -0.13,
+        0
+      ],
+      "target_bottom_world_m": [
+        0.24,
+        0.08,
+        0.022
+      ],
+      "component_quaternion_xyzw": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "pick_tcp_world_m": [
+        0.21,
+        -0.13,
+        0.014
+      ],
+      "place_tcp_world_m": [
+        0.24,
+        0.08,
+        0.036
+      ],
+      "source_above_tcp_world_m": [
+        0.21,
+        -0.13,
+        0.082
+      ],
+      "target_above_tcp_world_m": [
+        0.24,
+        0.08,
+        0.082
+      ],
+      "tool_quaternion_xyzw": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "nominal B baseline; not a new robot execution result"
+    },
+    {
+      "assembly_order": 5,
+      "part_id": "L2_2",
+      "source_id": "S5",
+      "layer": 2,
+      "source_bottom_world_m": [
+        0.27,
+        -0.13,
+        0
+      ],
+      "target_bottom_world_m": [
+        0.29,
+        0.08,
+        0.022
+      ],
+      "component_quaternion_xyzw": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "pick_tcp_world_m": [
+        0.27,
+        -0.13,
+        0.014
+      ],
+      "place_tcp_world_m": [
+        0.29,
+        0.08,
+        0.036
+      ],
+      "source_above_tcp_world_m": [
+        0.27,
+        -0.13,
+        0.082
+      ],
+      "target_above_tcp_world_m": [
+        0.29,
+        0.08,
+        0.082
+      ],
+      "tool_quaternion_xyzw": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "nominal B baseline; not a new robot execution result"
+    },
+    {
+      "assembly_order": 6,
+      "part_id": "L2_3",
+      "source_id": "S6",
+      "layer": 2,
+      "source_bottom_world_m": [
+        0.33,
+        -0.13,
+        0
+      ],
+      "target_bottom_world_m": [
+        0.34,
+        0.08,
+        0.022
+      ],
+      "component_quaternion_xyzw": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "pick_tcp_world_m": [
+        0.33,
+        -0.13,
+        0.014
+      ],
+      "place_tcp_world_m": [
+        0.34,
+        0.08,
+        0.036
+      ],
+      "source_above_tcp_world_m": [
+        0.33,
+        -0.13,
+        0.082
+      ],
+      "target_above_tcp_world_m": [
+        0.34,
+        0.08,
+        0.082
+      ],
+      "tool_quaternion_xyzw": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "status": "nominal B baseline; not a new robot execution result"
+    }
+  ]
+}

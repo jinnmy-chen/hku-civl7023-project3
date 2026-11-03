@@ -1,0 +1,405 @@
+{
+  "date_hkt": "2026-11-02",
+  "status": "PASS",
+  "full_run": {
+    "reported_success": true,
+    "reported_error": null,
+    "requested_count": 16,
+    "placed_items": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "simulated_seconds": 606.8833333333333,
+    "collision_events": 0,
+    "preloaded_count": 16,
+    "scene_body_counts": [
+      19,
+      19,
+      19
+    ],
+    "assisted_grasp": true,
+    "temporary_mass_kg": 0.07,
+    "trace_rows": {
+      "b_control_trace.csv": 32462,
+      "trajectory.csv": 12137,
+      "inventory_trace.csv": 19408
+    },
+    "logs": {
+      "b_control_trace.csv": {
+        "time_first_s": 2.0166666666666617,
+        "time_last_s": 602.8833333341071,
+        "backward_time_count": 0,
+        "duplicate_time_count": 0,
+        "largest_interval_s": 1.866666666664969,
+        "scope": "per sample"
+      },
+      "trajectory.csv": {
+        "time_first_s": 0.05,
+        "time_last_s": 606.85,
+        "backward_time_count": 0,
+        "duplicate_time_count": 0,
+        "largest_interval_s": 0.05000000000006821,
+        "scope": "per sample"
+      },
+      "inventory_trace.csv": {
+        "time_first_s": 0.5,
+        "time_last_s": 606.5,
+        "backward_time_count": 0,
+        "duplicate_time_count": 18195,
+        "largest_interval_s": 0.5,
+        "scope": "inventory repeats one timestamp per component"
+      }
+    },
+    "inventory_samples": 1213,
+    "inventory_all_16_present": true,
+    "trajectory_scene_counts": [
+      19
+    ],
+    "independent_FK_and_J_samples": 128,
+    "FK_position_max_difference_m": 4.236704743275018e-16,
+    "FK_orientation_max_difference_deg": 5.841259415245422e-14,
+    "Jacobian_min_sigma_max_difference": 0.0,
+    "all_rows_position_error_max_difference_m": 0.0,
+    "all_rows_orientation_error_max_difference_deg": 2.5579538487363607e-13,
+    "peak_actual_joint_speed_rad_s": 0.09373869105820341,
+    "minimum_joint_margin_deg": 3.77785726788211,
+    "minimum_weighted_J_singular_value": 0.02938901982370647,
+    "actual_joint_limit_violation_rows": 0,
+    "move_statuses": {
+      "reached": 96
+    },
+    "maximum_terminal_TCP_position_error_mm": 0.04756251973288816,
+    "maximum_terminal_TCP_orientation_error_deg": 0.0003500487633959737,
+    "max_final_component_position_error_mm": 0.8226102222838826,
+    "final_position_error_max_discrepancy_m": 0.0,
+    "max_reported_final_orientation_error_deg": 0.2877701220007204,
+    "max_final_linear_speed_m_s": 1.5942840399976976e-05,
+    "minimum_support_contact_count": 21,
+    "last_inventory_orientation_errors_deg": {
+      "1": 0.004803988381045691,
+      "2": 0.01614742419632433,
+      "3": 0.011769442275589412,
+      "4": 0.0035874339341905813,
+      "5": 0.0042422368487745514,
+      "6": 0.007633906737211266,
+      "7": 0.0060941565641669535,
+      "8": 0.01902240823037442,
+      "9": 0.28738752203303425,
+      "10": 0.043499480175314034,
+      "11": 0.24480990141819797,
+      "12": 0.0407738496414498,
+      "13": 0.23071733049038257,
+      "14": 0.17119408896972022,
+      "15": 0.18157298853298423,
+      "16": 0.02094099921124108
+    },
+    "last_inventory_vs_final_time_gap_s": 0.38333333333332575,
+    "attach_count": 16,
+    "detach_count": 16,
+    "maximum_attach_displacement_m": 0,
+    "bilateral_contacts_at_all_attaches": true,
+    "all_snapshots_include_other15": true,
+    "planning_statuses": {
+      "executed": 96
+    },
+    "planning_methods": {
+      "direct_checked": 64,
+      "cartesian_vertical_checked": 32
+    },
+    "torque_columns_present": [],
+    "full_waiting_joint_logging": false
+  },
+  "source_sha256": "4a8b36eb278e67180ab10dcad50ea7b05cfb513edc4d52d8906f4d20a7ddf033",
+  "release_helper_sha256": "ef78b7aba576f437dd38a280b560c6d48ce456cdb798841d20f96b4a5e99bdc1",
+  "contact_breaking_relative_factor": 1e-05,
+  "physics_substeps": 4,
+  "closing_force_N": 1.0,
+  "release_force_stalls": [],
+  "released_items": [
+    {
+      "phase": "opened_before_detach",
+      "item": 1,
+      "time_s": 40.3,
+      "opening_m": 0.03600015161566207,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.8745757717596633e-14,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 2,
+      "time_s": 86.11666666666666,
+      "opening_m": 0.03600016576346146,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.4602513570621574e-14,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 3,
+      "time_s": 120.78333333333333,
+      "opening_m": 0.035999865353102775,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.0234610950806731e-14,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 4,
+      "time_s": 150.06666666666666,
+      "opening_m": 0.03600006990612416,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.999607725795327e-15,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 5,
+      "time_s": 182.6,
+      "opening_m": 0.035999971181158594,
+      "contacts_present": false,
+      "linear_speed_m_s": 6.4247303505153326e-15,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 6,
+      "time_s": 218.78333333333333,
+      "opening_m": 0.03599994257199132,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.2146057914150919e-14,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 7,
+      "time_s": 255.81666666666666,
+      "opening_m": 0.03600011519693372,
+      "contacts_present": false,
+      "linear_speed_m_s": 5.6111019118187224e-15,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 8,
+      "time_s": 300.1,
+      "opening_m": 0.0360001381421147,
+      "contacts_present": false,
+      "linear_speed_m_s": 7.030371649030726e-05,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 9,
+      "time_s": 349.2,
+      "opening_m": 0.0360001468823031,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.6556540278323348e-14,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 10,
+      "time_s": 394.1333333333333,
+      "opening_m": 0.03600016093498267,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.8835412283020868e-14,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 11,
+      "time_s": 431.55,
+      "opening_m": 0.035999869538425225,
+      "contacts_present": false,
+      "linear_speed_m_s": 4.56680710620797e-15,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 12,
+      "time_s": 464.31666666666666,
+      "opening_m": 0.0360000674772146,
+      "contacts_present": false,
+      "linear_speed_m_s": 7.479419629755528e-15,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 13,
+      "time_s": 495.8833333333333,
+      "opening_m": 0.03599997119552148,
+      "contacts_present": false,
+      "linear_speed_m_s": 9.471040852748994e-15,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 14,
+      "time_s": 524.8,
+      "opening_m": 0.035999944779575715,
+      "contacts_present": false,
+      "linear_speed_m_s": 7.648813595414036e-15,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 15,
+      "time_s": 556.8166666666666,
+      "opening_m": 0.03600003933076328,
+      "contacts_present": false,
+      "linear_speed_m_s": 2.19183524926851e-05,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    },
+    {
+      "phase": "opened_before_detach",
+      "item": 16,
+      "time_s": 600.1666666666666,
+      "opening_m": 0.03600014789391032,
+      "contacts_present": false,
+      "linear_speed_m_s": 1.9643411235022612e-05,
+      "force_limit_N": 1.0,
+      "stable_clear_samples": 5,
+      "recovered_after_escalation": false
+    }
+  ],
+  "no_checkpoint_restore": true,
+  "release_samples": 257,
+  "forces_used_N": [
+    1.0
+  ],
+  "assisted_hold_removed_only_after_gate": true,
+  "negative_obstruction_control": {
+    "scope": "独立机械阻挡负向对照，不是生产装配复现；物件固定于远处以隔离夹爪开口守卫",
+    "cases": [
+      {
+        "blocked": false,
+        "status": "PASS",
+        "error": null,
+        "force_stages": [
+          1.0
+        ],
+        "last_opening_m": 0.035999999999999976,
+        "hold_retained": true,
+        "simulated_seconds": 0.9
+      },
+      {
+        "blocked": true,
+        "status": "PASS",
+        "error": "Gripper release did not clear safely after bounded effort stages: opening=0.029005874993976548, touch=False, force_limit_N=3.0",
+        "force_stages": [
+          1.0,
+          3.0
+        ],
+        "last_opening_m": 0.029005874993976548,
+        "hold_retained": true,
+        "simulated_seconds": 6.0
+      }
+    ]
+  },
+  "isolated_16_closing_and_opening_fixture_passed": true,
+  "B_baseline_files_unchanged": 79,
+  "intentional_integration_mapping_changes": [
+    "05_Project3_月面机器人装配/C_仿真与装配/run_preloaded_tray_assembly_fast.py"
+  ],
+  "new_C_source_module": "gripper_release.py",
+  "PiPER_original_files_unchanged": 29,
+  "component_original_files_unchanged": 37,
+  "prior_failed_trials": [
+    {
+      "path": "运行验证/C_整合验收_2026-11-02/从头16件复现",
+      "placed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "success": false
+    },
+    {
+      "path": "运行验证/C_释放修复_2026-11-02/修复后从头16件",
+      "placed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "success": false
+    }
+  ],
+  "micrometre_cache_trial_before_v4": {
+    "placed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "success": false
+  },
+  "last_inventory_vs_final_max_position_difference_m": 2.707838396407329e-06,
+  "last_inventory_vs_final_max_orientation_error_difference_deg": 0.0020346937170066526,
+  "sampled_opening_forces_are_not_arm_joint_torques": true,
+  "mass_inertia_and_friction": "unchanged temporary parameters; not validated material data"
+}

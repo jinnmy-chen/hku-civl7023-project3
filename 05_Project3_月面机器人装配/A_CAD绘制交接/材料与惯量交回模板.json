@@ -1,0 +1,50 @@
+{
+  "component_version": "P3-GrooveKey-v2",
+  "status": "待A填写：null不是零值，不可直接作为仿真参数",
+  "geometry_origin": "bottom plane centre; local X length, Y width, Z up",
+  "units": {
+    "density": "kg/m^3",
+    "mass": "kg",
+    "centre_of_mass": "m",
+    "inertia": "kg*m^2",
+    "volume": "m^3"
+  },
+  "reference_ideal_volume_m3": 2.904266666666667e-05,
+  "material_name": null,
+  "material_density_kg_m3": null,
+  "material_source_or_assumption": null,
+  "actual_CAD_volume_m3": null,
+  "mass_kg": null,
+  "centre_of_mass_in_geometry_frame_m": [
+    null,
+    null,
+    null
+  ],
+  "inertia_about_COM_expressed_in_geometry_axes_kg_m2": [
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null
+    ]
+  ],
+  "inertia_product_sign_convention": "请写清CAD软件显示的惯性积与实际惯量矩阵非对角元的符号关系",
+  "CAD_software_and_version": null,
+  "native_CAD_filename": null,
+  "STEP_filename": null,
+  "mm_STL_filename": null,
+  "m_STL_filename": null,
+  "changes_from_V2": null,
+  "connection_and_stability_notes": null,
+  "prepared_by": null,
+  "prepared_date": null
+}

@@ -1,0 +1,60 @@
+{
+  "P3_V2_mm": {
+    "reopened_solids": 1,
+    "volume_mm3": 29042.666666666664,
+    "valid": true,
+    "bounds": [
+      -25.0,
+      -15.0,
+      0.0,
+      25.0,
+      15.0,
+      25.0
+    ]
+  },
+  "SixWall_Baseline_mm": {
+    "reopened_solids": 6,
+    "volume_mm3": 174256.00000000012,
+    "valid": true,
+    "bounds": [
+      215.0,
+      65.0,
+      0.0,
+      365.0,
+      95.0,
+      47.0
+    ]
+  },
+  "Octagon16_Candidate_mm": {
+    "reopened_solids": 16,
+    "volume_mm3": 464682.6666666661,
+    "valid": true,
+    "bounds": [
+      169.0,
+      -61.0,
+      0.0,
+      351.0,
+      121.0,
+      47.0
+    ]
+  },
+  "STL_mm": {
+    "solid": true,
+    "volume": 29042.650390625,
+    "facets": 852,
+    "x_length": 50.0
+  },
+  "STL_m": {
+    "solid": true,
+    "volume": 2.9042677851975895e-05,
+    "facets": 852,
+    "x_length": 0.05000000074505806
+  },
+  "B_reference_mesh_comparison": {
+    "valid_mesh_solid": true,
+    "reference_volume_mm3": 29042.666666666668,
+    "symmetric_difference_mm3": 0.0,
+    "comparison_tolerance_mm3": 0.01,
+    "pass": true
+  }
+}

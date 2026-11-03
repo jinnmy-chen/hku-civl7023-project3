@@ -1,0 +1,8 @@
+{
+  "count": 6,
+  "intersection_volume_failures_mm3": [],
+  "sum_volume_mm3": 174256.00000000012,
+  "coordinate_frame": "robot world, mm",
+  "source_hidden_at_origin": true,
+  "instances_exported_only": true
+}

@@ -1,0 +1,25 @@
+{
+  "integration_date": "2026-11-04",
+  "source_directories": {
+    "v1": "C:/Users/Administrator/Desktop/PartA_设计成果_2026-11-03",
+    "v2": "C:/Users/Administrator/Desktop/PartA_CAD_尺寸标注_2026-11-04",
+    "v3": "C:/Users/Administrator/Desktop/PartA_第一阶段六件墙体_补齐版_2026-11-04"
+  },
+  "source_files": 175,
+  "source_file_contents_preserved": 175,
+  "source_content_mismatches": [],
+  "core_files_checked": 19,
+  "numerical_mass_parameters_unchanged": true,
+  "urdf_mesh_references_present": 35,
+  "urdf_collision_count": 34,
+  "urdf_mass_matches_candidate": true,
+  "six_nominal_targets_unchanged": true,
+  "no_new_cad_or_physics_execution": true,
+  "pending": [
+    "B/C interface approval",
+    "material assumption approval",
+    "URDF runtime loading",
+    "new-parameter robot grasp and torque evaluation"
+  ],
+  "geometry_or_view_changes_in_integration": false
+}

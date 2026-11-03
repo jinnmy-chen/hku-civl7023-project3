@@ -1,0 +1,9 @@
+{
+  "ideal_planar_bearing_area_mm2": 1004.0,
+  "density_kg_m3_assumed": 2500,
+  "upper_component_weight_N": 0.11762280000000001,
+  "average_bearing_pressure_Pa": 117.1541832669323,
+  "scope": "ideal centered gravity load, nominal parallel planes; excludes contact deformation, tolerance, material strength, lateral loads and overturning",
+  "inertia_convention_probe_rotated_2x1x1_box_A12": -0.25,
+  "expected_physical_tensor_A12": -0.25
+}

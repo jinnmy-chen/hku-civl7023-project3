@@ -1,0 +1,104 @@
+{
+  "status": "A nominal handoff goals, not executed controller commands",
+  "test_case": "S2 -> L1_2",
+  "units": "m, xyzw, N",
+  "component_source_bottom_world_m": [
+    0.27,
+    -0.07,
+    0
+  ],
+  "component_target_bottom_world_m": [
+    0.29,
+    0.08,
+    0
+  ],
+  "component_quaternion_xyzw": [
+    0,
+    0,
+    0,
+    1
+  ],
+  "nominal_tool_quaternion_xyzw": [
+    0,
+    1,
+    0,
+    0
+  ],
+  "tcp_definition_in_gripper_base_m": [
+    0,
+    0,
+    0.1358
+  ],
+  "grasp_tcp_offset_from_component_bottom_m": [
+    0,
+    0,
+    0.014
+  ],
+  "nominal_tcp_sequence": [
+    {
+      "stage": "above_source",
+      "position": [
+        0.27,
+        -0.07,
+        0.082
+      ],
+      "opening_m": 0.036
+    },
+    {
+      "stage": "approach_pick",
+      "position": [
+        0.27,
+        -0.07,
+        0.014
+      ],
+      "opening_m": 0.036
+    },
+    {
+      "stage": "close",
+      "position": [
+        0.27,
+        -0.07,
+        0.014
+      ],
+      "opening_note": "B geometry proxy 0.02412m; actual contact closure/force must be validated by B/C"
+    },
+    {
+      "stage": "lift",
+      "position": [
+        0.27,
+        -0.07,
+        0.082
+      ]
+    },
+    {
+      "stage": "transfer",
+      "position": [
+        0.29,
+        0.08,
+        0.082
+      ]
+    },
+    {
+      "stage": "nominal_place",
+      "position": [
+        0.29,
+        0.08,
+        0.014
+      ]
+    },
+    {
+      "stage": "release",
+      "opening_m": 0.036
+    },
+    {
+      "stage": "retreat",
+      "position": [
+        0.29,
+        0.08,
+        0.082
+      ]
+    }
+  ],
+  "important": "Nominal placement height is not C release allowance: C had lower-layer TCP16mm and upper-layer bottom+14.5mm. Controllers must distinguish pre-release clearance from final nominal target. Sequence is a task skeleton; no certified continuous collision-free path is supplied.",
+  "contact_and_mass": "provisional material parameters; friction/grasp assistance chosen and declared by B/C"
+}

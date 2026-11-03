@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "completed_count": 16,
+  "simulated_seconds": 606.8833333333333,
+  "max_position_error_mm": 0.8226102222838826,
+  "max_orientation_error_deg": 0.2877701220007204,
+  "max_linear_speed_m_s": 1.5942840399976976e-05,
+  "joint_speed_peak_rad_s": 0.09373869105820341,
+  "minimum_joint_margin_deg": 3.77785726788211,
+  "execution_collision_events": 0,
+  "planned_segments": 96,
+  "rrt_segments": 0,
+  "planned_rrt_segments": 0,
+  "planning_checks": 51480,
+  "scene_updates": 96,
+  "assist_attach_count": 16,
+  "maximum_attach_displacement_m": 0,
+  "temporary_dynamics": true,
+  "assisted_grasp": true
+}

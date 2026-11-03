@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<robot name="P3_GrooveKey_V2_A_provisional">
+<link name="component_bottom_frame">
+<inertial><origin xyz="0 0 0.010566253098888994" rpy="0 0 0"/><mass value="0.07260666666666667"/><inertia ixx="0.000007554717961655561" iyy="0.000018706254628322218" izz="0.000020403439999999998" ixy="0" ixz="0" iyz="0"/></inertial>
+<visual><origin xyz="0 0 0"/><geometry><mesh filename="meshes/component_m.stl" scale="1 1 1"/></geometry><material name="regolith_orange"><color rgba="0.85 0.46 0.12 1"/></material></visual>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_0_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_0_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_0_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_0_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_0_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_0_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_1_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_1_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_1_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_1_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_2_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_2_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_2_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_2_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_2_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_2_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_3_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_3_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_3_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_3_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_4_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_4_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_4_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_4_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_mouth_4_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/socket_wall_4_2.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/lower_body.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/grip_core.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/end_land_0_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/end_land_0_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/end_land_1_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/end_land_1_1.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/guide_boss_0.stl" scale="1 1 1"/></geometry></collision>
+<collision><origin xyz="0 0 0"/><geometry><mesh filename="meshes/convex/guide_boss_1.stl" scale="1 1 1"/></geometry></collision>
+</link>
+</robot>

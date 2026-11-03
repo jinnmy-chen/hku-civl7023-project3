@@ -1,0 +1,26 @@
+{
+  "single": {
+    "view_unchanged": true,
+    "solids": 1,
+    "labels": 8,
+    "volume_mm3": 29042.66666667,
+    "volume_delta_mm3": 3.2996467780321836e-9,
+    "passed": true
+  },
+  "six": {
+    "view_unchanged": true,
+    "solids": 6,
+    "labels": 8,
+    "volume_mm3": 174256,
+    "volume_delta_mm3": 0,
+    "passed": true
+  },
+  "octagon": {
+    "view_unchanged": true,
+    "solids": 16,
+    "labels": 8,
+    "volume_mm3": 464682.66666667,
+    "volume_delta_mm3": 3.3178366720676422e-9,
+    "passed": true
+  }
+}

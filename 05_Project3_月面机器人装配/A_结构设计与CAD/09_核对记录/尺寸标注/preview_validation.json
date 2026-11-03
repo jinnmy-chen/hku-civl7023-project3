@@ -1,0 +1,194 @@
+{
+  "single": {
+    "image_width": 1884,
+    "image_height": 1068,
+    "source": "native DWG view/UCS/annotation dump + matching CAD BRep; verification render, not app screenshot",
+    "labels": [
+      {
+        "label": "Socket D=3.5 mm",
+        "x_px": 1552.914340589351,
+        "baseline_y_px": 826.6151887003873,
+        "estimated_width_px": 167.9629239754803,
+        "height_px": 18.356603713167246
+      },
+      {
+        "label": "Slot=38x4x12 mm",
+        "x_px": 1552.914340589351,
+        "baseline_y_px": 613.0151887003952,
+        "estimated_width_px": 167.9629239754803,
+        "height_px": 18.356603713167246
+      },
+      {
+        "label": "Boss H=3 mm",
+        "x_px": 1552.914340589351,
+        "baseline_y_px": 399.4151887003833,
+        "estimated_width_px": 123.17281091535222,
+        "height_px": 18.356603713167246
+      },
+      {
+        "label": "Grip gap=22 mm",
+        "x_px": 1552.914340589351,
+        "baseline_y_px": 185.81518870039127,
+        "estimated_width_px": 156.76539571044825,
+        "height_px": 18.356603713167246
+      },
+      {
+        "label": "Length=50 mm",
+        "x_px": 26.700000000001296,
+        "baseline_y_px": 826.6151887003873,
+        "estimated_width_px": 134.37033918038424,
+        "height_px": 18.356603713167246
+      },
+      {
+        "label": "Width=30 mm",
+        "x_px": 26.700000000001296,
+        "baseline_y_px": 613.0151887003952,
+        "estimated_width_px": 123.17281091535222,
+        "height_px": 18.356603713167246
+      },
+      {
+        "label": "Total H=25 mm",
+        "x_px": 26.700000000001296,
+        "baseline_y_px": 399.4151887003833,
+        "estimated_width_px": 145.56786744541625,
+        "height_px": 18.356603713167246
+      },
+      {
+        "label": "Body H=22 mm",
+        "x_px": 26.700000000001296,
+        "baseline_y_px": 185.81518870039127,
+        "estimated_width_px": 134.37033918038424,
+        "height_px": 18.356603713167246
+      }
+    ],
+    "labels_inside_view": true
+  },
+  "six": {
+    "image_width": 1884,
+    "image_height": 1068,
+    "source": "native DWG view/UCS/annotation dump + matching CAD BRep; verification render, not app screenshot",
+    "labels": [
+      {
+        "label": "Part L=50 mm",
+        "x_px": 1590.9172760157944,
+        "baseline_y_px": 827.4465029128446,
+        "estimated_width_px": 116.98399622278215,
+        "height_px": 15.981420249013954
+      },
+      {
+        "label": "Column pitch=50 mm",
+        "x_px": 1590.9172760157944,
+        "baseline_y_px": 613.8465029128447,
+        "estimated_width_px": 175.4759943341732,
+        "height_px": 15.981420249013954
+      },
+      {
+        "label": "Part H=25 mm",
+        "x_px": 1590.9172760157944,
+        "baseline_y_px": 400.24650291284456,
+        "estimated_width_px": 116.98399622278215,
+        "height_px": 15.981420249013954
+      },
+      {
+        "label": "Body H=22 mm",
+        "x_px": 1590.9172760157944,
+        "baseline_y_px": 186.6465029128446,
+        "estimated_width_px": 116.98399622278215,
+        "height_px": 15.981420249013954
+      },
+      {
+        "label": "Length=150 mm",
+        "x_px": 26.700000000005616,
+        "baseline_y_px": 827.4465029128446,
+        "estimated_width_px": 126.73266257468066,
+        "height_px": 15.981420249013954
+      },
+      {
+        "label": "Depth=30 mm",
+        "x_px": 26.700000000005616,
+        "baseline_y_px": 613.8465029128447,
+        "estimated_width_px": 107.23532987088362,
+        "height_px": 15.981420249013954
+      },
+      {
+        "label": "Total H=47 mm",
+        "x_px": 26.700000000005616,
+        "baseline_y_px": 400.24650291284456,
+        "estimated_width_px": 126.73266257468066,
+        "height_px": 15.981420249013954
+      },
+      {
+        "label": "Layer pitch=22 mm",
+        "x_px": 26.700000000005616,
+        "baseline_y_px": 186.6465029128446,
+        "estimated_width_px": 165.72732798227472,
+        "height_px": 15.981420249013954
+      }
+    ],
+    "labels_inside_view": true
+  },
+  "octagon": {
+    "image_width": 1884,
+    "image_height": 1068,
+    "source": "native DWG view/UCS/annotation dump + matching CAD BRep; verification render, not app screenshot",
+    "labels": [
+      {
+        "label": "X span=182 mm",
+        "x_px": 1716.9777761385953,
+        "baseline_y_px": 828.8866666666725,
+        "estimated_width_px": 94.10266666665872,
+        "height_px": 11.866666666665663
+      },
+      {
+        "label": "Part L=50 mm",
+        "x_px": 1716.9777761385953,
+        "baseline_y_px": 615.286666666668,
+        "estimated_width_px": 86.86399999999266,
+        "height_px": 11.866666666665663
+      },
+      {
+        "label": "Part H=25 mm",
+        "x_px": 1716.9777761385953,
+        "baseline_y_px": 401.6866666666691,
+        "estimated_width_px": 86.86399999999266,
+        "height_px": 11.866666666665663
+      },
+      {
+        "label": "Part W=30 mm",
+        "x_px": 1716.9777761385953,
+        "baseline_y_px": 188.0866666666646,
+        "estimated_width_px": 86.86399999999266,
+        "height_px": 11.866666666665663
+      },
+      {
+        "label": "Y span=182 mm",
+        "x_px": 26.699999999998226,
+        "baseline_y_px": 828.8866666666725,
+        "estimated_width_px": 94.10266666665872,
+        "height_px": 11.866666666665663
+      },
+      {
+        "label": "Radius=76 mm",
+        "x_px": 26.699999999998226,
+        "baseline_y_px": 615.286666666668,
+        "estimated_width_px": 86.86399999999266,
+        "height_px": 11.866666666665663
+      },
+      {
+        "label": "Layer pitch=22 mm",
+        "x_px": 26.699999999998226,
+        "baseline_y_px": 401.6866666666691,
+        "estimated_width_px": 123.05733333332292,
+        "height_px": 11.866666666665663
+      },
+      {
+        "label": "Total H=47 mm",
+        "x_px": 26.699999999998226,
+        "baseline_y_px": 188.0866666666646,
+        "estimated_width_px": 94.10266666665872,
+        "height_px": 11.866666666665663
+      }
+    ],
+    "labels_inside_view": true
+  }
+}

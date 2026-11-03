@@ -1,0 +1,36 @@
+.DS_Store
+**/.venv/
+**/__pycache__/
+*.pyc
+05_Project3_月面机器人装配/.cache/
+
+# Local coursework, personal settings and internal handoff archives.
+/01_课程概览与考核/
+/02_核心课程讲义/
+/交付包/
+/.vscode/
+/AGENTS.md
+/分工.md
+/文件清单.md
+/05_Project3_月面机器人装配/*.pdf
+/05_Project3_月面机器人装配/Project3_下载清单.md
+/05_Project3_月面机器人装配/Project3_作业要求与评分说明.md
+/05_Project3_月面机器人装配/PiPER_模型包核对结果.json
+/05_Project3_月面机器人装配/环境检查与配置结果.md
+
+# Publish the current verified run; keep previous diagnostics locally.
+/05_Project3_月面机器人装配/运行验证/*
+!/05_Project3_月面机器人装配/运行验证/C_释放修复_2026-11-02/
+/05_Project3_月面机器人装配/运行验证/C_释放修复_2026-11-02/*
+!/05_Project3_月面机器人装配/运行验证/C_释放修复_2026-11-02/修复说明与验证.md
+!/05_Project3_月面机器人装配/运行验证/C_释放修复_2026-11-02/修复结果独立核对.json
+!/05_Project3_月面机器人装配/运行验证/C_释放修复_2026-11-02/修复后从头16件_v4/
+/05_Project3_月面机器人装配/运行验证/C_释放修复_2026-11-02/修复后从头16件_v4/checkpoint.json
+/05_Project3_月面机器人装配/运行验证/C_释放修复_2026-11-02/修复后从头16件_v4/checkpoint.bullet
+/05_Project3_月面机器人装配/C_仿真与装配/交接资料/机器人执行日志_附构件编号.csv
+
+# Credentials are local even if introduced later.
+.env
+.env.*
+*.pem
+*.key
