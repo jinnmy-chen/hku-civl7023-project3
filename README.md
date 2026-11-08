@@ -1,3 +1,5 @@
+> 2026-11-08上传更新：C第二阶段成果已上传至jinnmy-chen的`c-stage2-20261107`分支，小组仓库合并请求：https://github.com/yhdhhhhuk/hku-civl7023-project3/pull/1 。完整回传包见 https://github.com/jinnmy-chen/hku-civl7023-project3/releases/tag/c-stage2-20261108 。下文“尚未推送”描述的是11月5日整合包封存时的历史状态。当前补偿版16件结果、原版9件受阻记录及方法限制详见`00_C回传先读我.md`。
+
 # Project 3 第二阶段工作工程
 
 本目录在固定Git基线430bbe22746fe3493b62877bf22e9fcd2406d7bc上由2026-11-05 A/C整合包导入；新成果尚未推送。先完成ZIP根目录Git对齐和导入，再在此目录工作。
